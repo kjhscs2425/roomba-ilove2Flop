@@ -2,8 +2,8 @@ from PIL import Image, ImageDraw
 from turtle import Screen, bgpic, shape, up, goto, down, left, right, screensize
 import os
 
-pixel_width = 40
-pixel_height = 40
+pixel_width = 50
+pixel_height = 50
 
 def draw_rectangle(n_cols, n_rows, room_image_file):
 
